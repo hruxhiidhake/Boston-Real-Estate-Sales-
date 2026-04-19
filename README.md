@@ -16,6 +16,7 @@ Overall, the analysis aims to enhance the house recommendation system, enabling 
 
 ## Dataset 
 
+https://github.com/hruxhiidhake/Boston-Real-Estate-Sales-/blob/main/Boston%20Condo%20Dataset%20and%20Dictionary.xlsx
 
 ## Dataset Description
 
@@ -25,3 +26,21 @@ Location attributes
 Number of rooms, property size
 Crime rate, accessibility, and infrastructure
 Pricing information
+
+## Key Insights
+
+Location and property size are the most significant drivers of house prices
+Higher-income areas tend to have significantly higher property values
+Accessibility to key facilities positively impacts pricing
+Certain features show diminishing returns beyond a threshold
+
+## Live Dashboard
+
+https://github.com/hruxhiidhake/Boston-Real-Estate-Sales-/blob/main/Boston%20Real%20Estate%20Sales.twbx
+
+## Business Impact
+
+Enables better pricing decisions
+Improves customer targeting through personalized recommendations
+Helps optimize inventory based on demand trends
+Supports strategic decision-making using data insights
