@@ -22,17 +22,17 @@ https://github.com/hruxhiidhake/Boston-Real-Estate-Sales-/blob/main/Boston%20Con
 
 The dataset contains housing-related features such as:
 
-Location attributes
-Number of rooms, property size
-Crime rate, accessibility, and infrastructure
-Pricing information
+1. Location attributes
+2. Number of rooms, property size
+3. Crime rate, accessibility, and infrastructure
+4. Pricing information
 
 ## Key Insights
 
-Location and property size are the most significant drivers of house prices
-Higher-income areas tend to have significantly higher property values
-Accessibility to key facilities positively impacts pricing
-Certain features show diminishing returns beyond a threshold
+1. Location and property size are the most significant drivers of house prices
+2. Higher-income areas tend to have significantly higher property values
+3. Accessibility to key facilities positively impacts pricing
+4. Certain features show diminishing returns beyond a threshold
 
 ## Live Dashboard
 
@@ -40,7 +40,7 @@ https://github.com/hruxhiidhake/Boston-Real-Estate-Sales-/blob/main/Boston%20Rea
 
 ## Business Impact
 
-Enables better pricing decisions
-Improves customer targeting through personalized recommendations
-Helps optimize inventory based on demand trends
-Supports strategic decision-making using data insights
+1. Enables better pricing decisions
+2. Improves customer targeting through personalized recommendations
+3. Helps optimize inventory based on demand trends
+4. Supports strategic decision-making using data insights
